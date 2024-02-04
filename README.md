@@ -1,5 +1,5 @@
 - 👋 Hello, I’m @adilmuhammedd
-- 👀 Data Science |Machine Learning |Artificial Intelligence|Software development
+- 👀 I'm intrested in Data Science |Machine Learning |Artificial Intelligence|Software development|Computer Hardware
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on data analyst positions
 - 📫 Instagram|@adilmuhammedd
